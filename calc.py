@@ -28,9 +28,6 @@ def button_equal():
     if math == "addition":
         e.insert(0, f_num + int(second_number))
 
-    if math == "addition":
-        e.insert(0, f_num + int(second_number))
-    
     if math == "subtraction":
         e.insert(0, f_num - int(second_number))
     
